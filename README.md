@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Welcome to my profile:
 Hi, I’m Vatsal! I’m a developer who enjoys building backend systems ⚙️, distributed architectures 🌐, and AI-powered tools 🤖.<br><br>✨ I use this space to bring ideas into reality through code — experimenting, iterating, and expressing creativity by solving problems that excite me. Some projects focus on accessibility ♿, others on automation ⚡ and AI innovation 🧠.<br><br>📌 Currently: contributing to the USC Digital Repository, prototyping features and making the platform more accessible for researchers and students.<br>💼 Previously: at UKG, where I engineered mission-critical infrastructure 🔒, worked on authentication, APIs, and built tools to streamline developer workflows.<br><br>🚀 For me, GitHub is where curiosity meets craft — a place to learn, share, and collaborate on systems that are not only scalable, but also meaningful.
 
 
@@ -10,7 +10,7 @@ Hi, I’m Vatsal! I’m a developer who enjoys building backend systems ⚙️, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalvatsyayan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Quote for the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
