@@ -1,5 +1,3 @@
-# Vatsal Vatsyayan
-
 ## 👋 About Me
 
 Hi, I'm **Vatsal Vatsyayan** — a Software Engineer and **MSCS student at the University of Southern California**, passionate about building intelligent and automated systems that bridge **AI and backend engineering**.
