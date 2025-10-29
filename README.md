@@ -1,17 +1,194 @@
-# 💫 Welcome to my profile:
-Hi, I’m Vatsal! I’m a developer who enjoys building backend systems ⚙️, distributed architectures 🌐, and AI-powered tools 🤖.<br><br>✨ I use this space to bring ideas into reality through code — experimenting, iterating, and expressing creativity by solving problems that excite me. Some projects focus on accessibility ♿, others on automation ⚡ and AI innovation 🧠.<br><br>📌 Currently: contributing to the USC Digital Repository, prototyping features and making the platform more accessible for researchers and students.<br>💼 Previously: at UKG, where I engineered mission-critical infrastructure 🔒, worked on authentication, APIs, and built tools to streamline developer workflows.<br><br>🚀 For me, GitHub is where curiosity meets craft — a place to learn, share, and collaborate on systems that are not only scalable, but also meaningful.
+# Vatsal Vatsyayan
 
+## 👋 About Me
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vatsalvatsyayan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vatsalvatsyayan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalvatsyayan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Hi, I'm **Vatsal Vatsyayan** — a Software Engineer and **MSCS student at the University of Southern California**, passionate about building intelligent and automated systems that bridge **AI and backend engineering**.
 
+I currently work as a **Software Developer at the USC Digital Repository**, where I build large-scale digital preservation and automation workflows.  
+Before USC, I spent **two years at UKG (Ultimate Kronos Group)** as a Software Engineer, working on distributed systems, microservices, and performance optimization in enterprise environments.
 
-### ✍️ Quote for the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Lately, I’ve been diving deep into **AI, LLMs, RAG, and Agentic AI**, exploring how these technologies can make information systems more intuitive and powerful. I’m especially excited about combining **automation, retrieval, and reasoning** to create tools that save time and amplify human capability.
+
+Outside of work, I enjoy experimenting with new frameworks, participating in hackathons, and turning ideas into real, working prototypes.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vatsalvatsyayan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧠 Skills
+
+### Languages
+<div style="display:flex;flex-wrap:wrap;gap:14px;margin:8px 0;">
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/javascript" width="20" height="20" alt="JavaScript" title="JavaScript" />
+    <span style="font-size:12px;margin-top:4px;">JavaScript</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/typescript" width="20" height="20" alt="TypeScript" title="TypeScript" />
+    <span style="font-size:12px;margin-top:4px;">TypeScript</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/python" width="20" height="20" alt="Python" title="Python" />
+    <span style="font-size:12px;margin-top:4px;">Python</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" height="20" alt="Java" title="Java" />
+    <span style="font-size:12px;margin-top:4px;">Java</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="20" height="20" alt="C#" title="C#" />
+    <span style="font-size:12px;margin-top:4px;">C#</span>
+  </span>
+</div>
+
+### Frontend
+<div style="display:flex;flex-wrap:wrap;gap:14px;margin:8px 0;">
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/react" width="20" height="20" alt="React" title="React" />
+    <span style="font-size:12px;margin-top:4px;">React</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/vuedotjs" width="20" height="20" alt="Vue.js" title="Vue.js" />
+    <span style="font-size:12px;margin-top:4px;">Vue.js</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/angular" width="20" height="20" alt="Angular" title="Angular" />
+    <span style="font-size:12px;margin-top:4px;">Angular</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/nextdotjs" width="20" height="20" alt="Next.js" title="Next.js" />
+    <span style="font-size:12px;margin-top:4px;">Next.js</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/jquery" width="20" height="20" alt="jQuery" title="jQuery" />
+    <span style="font-size:12px;margin-top:4px;">jQuery</span>
+  </span>
+</div>
+
+### Backend
+<div style="display:flex;flex-wrap:wrap;gap:14px;margin:8px 0;">
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/nodedotjs" width="20" height="20" alt="Node.js" title="Node.js" />
+    <span style="font-size:12px;margin-top:4px;">Node.js</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/express" width="20" height="20" alt="Express" title="Express" />
+    <span style="font-size:12px;margin-top:4px;">Express</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/flask" width="20" height="20" alt="Flask" title="Flask" />
+    <span style="font-size:12px;margin-top:4px;">Flask</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/spring" width="20" height="20" alt="Spring Boot" title="Spring Boot" />
+    <span style="font-size:12px;margin-top:4px;">Spring Boot</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/dotnet" width="20" height="20" alt="ASP.NET" title="ASP.NET" />
+    <span style="font-size:12px;margin-top:4px;">ASP.NET</span>
+  </span>
+</div>
+
+### Databases
+<div style="display:flex;flex-wrap:wrap;gap:14px;margin:8px 0;">
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/mongodb" width="20" height="20" alt="MongoDB" title="MongoDB" />
+    <span style="font-size:12px;margin-top:4px;">MongoDB</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/postgresql" width="20" height="20" alt="PostgreSQL" title="PostgreSQL" />
+    <span style="font-size:12px;margin-top:4px;">PostgreSQL</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/mysql" width="20" height="20" alt="MySQL" title="MySQL" />
+    <span style="font-size:12px;margin-top:4px;">MySQL</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/sqlite" width="20" height="20" alt="SQLite" title="SQLite" />
+    <span style="font-size:12px;margin-top:4px;">SQLite</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20" height="20" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
+    <span style="font-size:12px;margin-top:4px;">MS SQL Server</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/influxdb" width="20" height="20" alt="InfluxDB" title="InfluxDB" />
+    <span style="font-size:12px;margin-top:4px;">InfluxDB</span>
+  </span>
+</div>
+
+### DevOps & Tools
+<div style="display:flex;flex-wrap:wrap;gap:14px;margin:8px 0;">
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/docker" width="20" height="20" alt="Docker" title="Docker" />
+    <span style="font-size:12px;margin-top:4px;">Docker</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/git" width="20" height="20" alt="Git" title="Git" />
+    <span style="font-size:12px;margin-top:4px;">Git</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/github" width="20" height="20" alt="GitHub" title="GitHub" />
+    <span style="font-size:12px;margin-top:4px;">GitHub</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/bitbucket" width="20" height="20" alt="Bitbucket" title="Bitbucket" />
+    <span style="font-size:12px;margin-top:4px;">Bitbucket</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20" height="20" alt="AWS" title="AWS" />
+    <span style="font-size:12px;margin-top:4px;">AWS</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/googlecloud" width="20" height="20" alt="Google Cloud" title="Google Cloud" />
+    <span style="font-size:12px;margin-top:4px;">GCP</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/heroku" width="20" height="20" alt="Heroku" title="Heroku" />
+    <span style="font-size:12px;margin-top:4px;">Heroku</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/vercel" width="20" height="20" alt="Vercel" title="Vercel" />
+    <span style="font-size:12px;margin-top:4px;">Vercel</span>
+  </span>
+  <span style="display:inline-flex;flex-direction:column;align-items:center;width:64px;">
+    <img src="https://cdn.simpleicons.org/netlify" width="20" height="20" alt="Netlify" title="Netlify" />
+    <span style="font-size:12px;margin-top:4px;">Netlify</span>
+  </span>
+</div>
+
+---
+
+## 📁 Projects
+
+### SearchInsured — HackSC 2025 Winner
+Developed an **agentic RAG** system integrating **Gemini API, FAISS, and FastAPI** for conversational insurance PDF Q&A and in-network doctor search via NPI APIs.  
+🔗 [GitHub Repo](https://github.com/vatsalvatsyayan/SearchInsured)
+
+### KingCold
+Built a **JWT-authenticated FastAPI–MongoDB** app with **Tesseract OCR** to parse recruiter details from screenshots and automate cold emails via Google Apps Script; extended with a **Chrome extension** to analyze job descriptions, check H-1B sponsorship, and generate tailored cover letters.  
+🔗 [GitHub Repo](https://github.com/vatsalvatsyayan/Cold-Email-Tool)
+
+### Daily Tech News
+Built a real-time summarizer using **RSS, FAISS, and sentence-transformers**; integrated **Mistral via Ollama** for semantic Q&A, enabling context-aware responses on tech articles.  
+🔗 [GitHub Repo](https://github.com/vatsalvatsyayan/Vachary)
+
+---
+
+## 📬 Contact
+<div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;">
+  <span style="display:inline-flex;align-items:center;gap:6px;">
+    <img src="https://cdn-icons-png.flaticon.com/128/15889/15889542.png" width="18" height="18" alt="Email" title="Email" />
+    <a href="mailto:vatsyaya@usc.edu">vatsyaya@usc.edu</a>
+  </span>
+  <span style="display:inline-flex;align-items:center;gap:6px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="18" height="18" alt="LinkedIn" title="LinkedIn" />
+    <a href="https://linkedin.com/in/vatsalvatsyayan">LinkedIn</a>
+  </span>
+  <span style="display:inline-flex;align-items:center;gap:6px;">
+    <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="18" height="18" alt="GitHub" title="GitHub" />
+    <a href="https://github.com/vatsalvatsyayan">GitHub</a>
+  </span>
+  <span style="display:inline-flex;align-items:center;gap:6px;">
+    <img src="https://cdn-icons-png.flaticon.com/128/10453/10453141.png" width="18" height="18" alt="Website" title="Website" />
+    <a href="https://vatsalv.vercel.app">Website</a>
+  </span>
+</div>
