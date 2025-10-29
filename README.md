@@ -169,10 +169,17 @@ Chrome extension to analyze job descriptions, check H-1B sponsorship, and genera
 
 ### Daily Tech News
 
-Built a real-time summarizer using RSS, FAISS, and sentence-transformers;
+Created a real-time summarizer using RSS, FAISS, and sentence-transformers;
 integrated Mistral via Ollama for semantic Q&A, enabling context-aware responses on tech articles.
 
 🔗 [GitHub Repo](https://github.com/vatsalvatsyayan/Vachary)
+
+### Text-To-SQL 
+
+Engineered an AI-driven NL-to-SQL system by fine-tuning BART/T5
+and integrating SBERT embeddings, achieving 70%+ accuracy on complex queries.
+
+🔗 [GitHub Repo](https://github.com/vatsalvatsyayan/Text-to-SQL)
 
 
 ## 📬 Contact
